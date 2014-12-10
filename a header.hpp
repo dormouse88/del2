@@ -8,7 +8,7 @@
 #ifndef A_HEADER_HPP
 #define	A_HEADER_HPP
 
-
+//nothing
 
 #endif	/* A_HEADER_HPP */
 

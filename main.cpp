@@ -10,7 +10,6 @@
 using namespace std;
 
 /*
- * 
  */
 int main(int argc, char** argv) {
 
@@ -18,3 +17,7 @@ int main(int argc, char** argv) {
 }
 
 //oooh, actual code
+
+void func() {
+    return;
+}
