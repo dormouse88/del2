@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     return 0;
 }
 
-//oooh, actual code
+//oooh, actual codez
 
 void func() {
     return;
